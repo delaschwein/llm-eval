@@ -1,6 +1,7 @@
 from llm import generate
 from pprint import pprint
 
+
 def judge(input, output, reference, judge_model="openai/gpt-4o-mini"):
     """
     Judge the output of a model based on the input X, candidate output y_hat, and reference r.
@@ -47,7 +48,7 @@ def main():
         "judge2": {
             "decision": decision_2,
             "explanation": explanation_2,
-        }
+        },
     }
 
     if decision_1 != decision_2:
@@ -66,9 +67,6 @@ def main():
     # TODO: record model
 
     # TODO: write out
-
-
-
 
 
 if __name__ == "__main__":
