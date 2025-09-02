@@ -20,11 +20,6 @@ def generate(
     temperature=0.0,
     retries=10,  # Number of retries
 ):
-    """
-    Calls OpenAI's chat model to get Diplomacy orders using requests.
-    The prompt_text should be structured JSON describing the game state.
-    Retries the call up to `retries` times with a 5-second delay between attempts on failure.
-    """
     api_key = os.getenv("OPENROUTER_API_KEY", "")
     base_url = os.getenv("BASE_URL", "https://openrouter.ai/api/v1")
 

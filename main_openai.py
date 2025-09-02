@@ -1,6 +1,6 @@
 import csv
 
-from llm import generate
+from llm_openai import generate
 import json
 from tqdm import tqdm
 from time import sleep
@@ -58,7 +58,7 @@ def main():
     Main function to run the VLLM inference with the Prometheus model.
     """
 
-    model_names = ["openai/gpt-3.5-turbo"]
+    model_names = ["gpt-3.5-turbo"]
 
     evaluation_rubrics = [
         {

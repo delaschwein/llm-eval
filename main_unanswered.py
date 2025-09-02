@@ -1,9 +1,10 @@
 import csv
-
-from llm import generate
 import json
+import os
 from tqdm import tqdm
 from time import sleep
+
+from llm import generate
 
 def create_absolute_grading_prompt(instruction, response, reference_answer, rubric):
     """
@@ -53,12 +54,27 @@ def load_data(file_path):
             data.append(dict(row))
     return data
 
+
+def load_existing_results(model_name):
+    file_path = f"spanish_rosie_evals/{model_name.replace('/', '_')}_evaluation_results.json"
+
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            try:
+                return json.load(f)
+            except json.JSONDecodeError:
+                return {}
+    raise FileNotFoundError(f"No existing results file found for model {model_name}")
+
 def main():
     """Ï
-    Main function to run the VLLM inference with the Prometheus model.
+    Main function to run the VLLM inference with the Prometheus model for unanswered questions.
     """
 
-    model_names = ["openai/gpt-3.5-turbo"]
+    existing_data_dir = 'spanish_rosie_evals'
+
+    file_names = os.listdir(existing_data_dir)
+    model_names = [x.split('_evaluation_results.json')[0].replace('_', '/') for x in file_names if x.endswith('_evaluation_results.json') and not x.startswith('prometheus')]
 
     evaluation_rubrics = [
         {
@@ -109,14 +125,21 @@ def main():
         ])
     ]
 
-
     for model_name in model_names:
+        existing_model_results = load_existing_results(model_name)
+
+        answered_instructions = set(existing_model_results.keys())
+
         score_mapping = {}
 
         for item in tqdm(has_all_columns):
             instruction = item.get('question', '')
             response_to_evaluate = item.get('model_answer', '')
             reference_answer = item.get('passage_1', '')
+
+            if instruction in answered_instructions:
+                continue
+
             score_mapping[instruction] = {}
             relevancy = 'yes' in item.get('Is this answer topically relevant?', '').lower()
             attribution = 'yes' in item.get('All attributions correct?', '').lower()
@@ -129,7 +152,6 @@ def main():
                 "facts": facts,
                 "preference": prefer_model
             }
-
 
             for rubric in evaluation_rubrics:
                 absolute_prompt = create_absolute_grading_prompt(
@@ -164,9 +186,27 @@ def main():
                     }
 
 
-        with open(f"spanish_rosie_evals/{model_name.replace('/', '_')}_evaluation_results.json", "w", encoding="utf-8") as f:
-            json.dump(score_mapping, f, ensure_ascii=False, indent=4)
+        with open(f"spanish_rosie_evals/{model_name.replace('/', '_')}_evaluation_results.json", "a", encoding="utf-8") as f:
+            # Append to existing file or create new if it doesn't exist
+            # This will append the new scores to the existing file.
+            # For this to work well, we should load existing data first, update it, and then dump it.
+            # A simpler approach for this script is to write a *new* file for the new results.
+            # Let's stick to the original logic of creating a new file with a new name to avoid corruption.
+            # Or, let's load, update, and write back.
 
+            existing_data = {}
+            results_file = f"spanish_rosie_evals/{model_name.replace('/', '_')}_evaluation_results.json"
+            if os.path.exists(results_file):
+                with open(results_file, 'r', encoding='utf-8') as f_read:
+                    try:
+                        existing_data = json.load(f_read)
+                    except json.JSONDecodeError:
+                        pass # Keep existing_data empty
+
+            existing_data.update(score_mapping)
+
+            with open(results_file, 'w', encoding='utf-8') as f_write:
+                json.dump(existing_data, f_write, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":

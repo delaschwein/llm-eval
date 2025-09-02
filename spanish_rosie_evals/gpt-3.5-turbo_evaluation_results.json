@@ -1,0 +1,2447 @@
+{
+    "Que alimentos son sanos para mis bebés de 22 meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides additional detailed information beyond the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que porcion de arroz deberia darle a mi bebe de 11 meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the topic.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly addresses all attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response incorporates all the facts provided in the passages.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information and recommendations regarding the introduction of rice to a 11-month-old baby, addressing concerns about arsenic exposure and suggesting a variety of fortified cereals, meeting the criteria for a high score.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Como puedo hacer que mi bebe se alimenta mejor": {
+        "relevance": {
+            "feedback": "Feedback: The response covers relevant feeding tips for a baby.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions in the response are correct.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes some helpful tips but lacks specific details and organization compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Le puedo dar cualquier fruta a mi bebe de 11 meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes additional information beyond the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides accurate and detailed information regarding giving whole fruits to an 11-month-old baby.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que tipo de dieta debería llevar mi bebe de un año": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions to external sources.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts and information from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides comprehensive information on the appropriate diet for a one-year-old, covering various food groups and feeding patterns.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Es cierto que darle ibuprofen a los bebés les reduce su visión?": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant to the question.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly identifies the lack of evidence in the provided texts regarding the reduction of vision in babies due to ibuprofen, referencing specific information from the texts.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response accurately references the provided texts and addresses the question.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response accurately addresses the question and provides relevant information.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que medicamento puedo tomar para una infección de oído": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to medications for an ear infection.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions for the information provided.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides a comprehensive list of medications for ear infections, including pain relievers, ear drops, antibiotics, and antivirals, but lacks specific dosage and cautionary information compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Porque me dio preclamsia": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information about preeclampsia and its complications, but it lacks conciseness and clarity compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Es normal que mis pies me duelan si tengo diabetes": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the question.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions in the response are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on how diabetes can affect the feet, including neuropathy, decreased blood flow, and the importance of daily foot checks, aligning closely with the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que vacuna toca a los 15 meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is mostly relevant to the question. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes the correct vaccine but also includes additional information not relevant to the question. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts provided in the reference answer. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response partially includes the correct vaccine but lacks additional details provided in the reference answer. [4]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Porque mi bebe no está comiendo mucho": {
+        "relevance": {
+            "feedback": "Feedback: The answer is not topically relevant. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: Not all facts in the reference answer are accounted for in the response. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes additional information beyond the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        }
+    },
+    "Como puedo aplicar para un seguro de salud para mi bebe si no tengo empleo": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes relevant information but lacks conciseness and clarity compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Jaundice": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts and information from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information about jaundice in babies, including causes, symptoms, prevalence, and treatment options.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Cual es mejor comida para bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the question. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes additional information and details compared to the reference answer.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que cantidad de solidos puede comer un bebe de once meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant to the question. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide the correct information regarding the quantity of solids a baby of eleven months can eat.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response does not provide information on the recommended amount of solid foods for an eleven-month-old baby.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Porque mi bebe de 18 meses muerde muchas cosas": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts and explanations to address the reasons behind a toddler's biting behavior.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed explanations and suggestions based on various sources, offering a comprehensive understanding of the possible reasons behind a toddler's biting behavior.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque mi bebe mantiene con mocos": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to managing mucus in babies.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions for the information provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information on managing a baby's mucus, but lacks specific guidance on encouraging additional liquid intake and avoiding forcing the child to drink, which are key points in the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Como calmarle los cólicos a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response includes relevant techniques to calm a baby with colic, but also includes additional irrelevant information.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: Not all facts in the reference answer are accounted for in the response.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes additional techniques beyond the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Tener el colesterol alto le afecta a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is somewhat relevant to the topic.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide all attributions correctly.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks depth and specific examples compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Como mantener a mi hijo activo": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response covers a variety of suggestions to keep a child active, but lacks conciseness and directness compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Que tipo de actividades puedo hacer con mi hijo para que se distraiga": {
+        "relevance": {
+            "feedback": "Feedback: The response covers a variety of distracting activities but lacks focus on a specific recommendation.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes various distractions and activities but lacks clarity and conciseness compared to the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides various options and strategies to distract a child, but lacks specificity and clear guidance compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Que medicamento puede tomar la mamá para una infección de oído": {
+        "relevance": {
+            "feedback": "Feedback: The response is partially relevant as it provides information on medications for ear infection but lacks details on other treatment options.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: Not all facts in the answer are accounted for in passages.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response partially covers the medication options for ear infection but lacks details on additional treatments and instructions.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Porque los niños menores de dos años tienen dificultades para hablar y entender": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the topic.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response covers a wide range of factors contributing to the difficulties in speaking and understanding in children under two years old.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Cuanta leche debo darle a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts and information provided in the passages.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on the recommended amount of milk for babies based on their age and individual needs, as well as the variability in breast milk production, aligning closely with the given criteria.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Cual es la diferencia entre un bebe prematuro y un bebe que nace en su tiempo": {
+        "relevance": {
+            "feedback": "Feedback: The response provides a detailed explanation of the differences between a premature baby and a baby born at full term, including the implications for their health and medical care. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the necessary facts and information.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information about the differences between a premature baby and a baby born at full term. [5]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "De cuantos meses puedo dejar la leche materna": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the passages.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response partially addresses the question but lacks specific information on the number of months for breastfeeding. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Porque se me enferma tanto mi bebe que puedo hacer o darle para no enfermarse tanto": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the given instruction.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and practical advice to help prevent the baby from getting sick.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque a mi bebe le dan alergias en los ojos": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information on the topic of eye allergies in babies.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts and information from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information about the causes, symptoms, and treatment of eye allergies in babies, going beyond the basic explanation.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque mi bebe tiene alergia al polen": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant to the question. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions but not all of them are correct.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks conciseness and directness compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Debo darle leche materna a mi Bebe?": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides additional information and examples supporting the benefits of breastfeeding, aligning with the given criteria.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Es malo amamantar mientras se está embarazada": {
+        "relevance": {
+            "feedback": "Feedback: The answer is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides additional information and context compared to the reference answer.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque se me cae el cabello tanto": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides a comprehensive explanation of various causes of hair loss, covering a wide range of factors.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Puedo darle pecho a mi bebe mientras estoy embarazada": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the topic.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly includes attributions for the information provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information and guidance on breastfeeding while pregnant, addressing potential concerns and offering solutions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que vegetales son buenos para el sistema inmunológico de mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes relevant information about vegetables that are good for the baby's immune system.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts mentioned in the passages.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about vegetables that are good for the baby's immune system.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque mi bebe es alergico al polen": {
+        "relevance": {
+            "feedback": "Feedback: The response is relevant to the topic. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the passages.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about pollen allergies in babies but lacks depth and specific details compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Cual es la major alimentacion para un bebe de dos años": {
+        "relevance": {
+            "feedback": "Feedback: The response provides detailed and relevant information on the appropriate nutrition for a two-year-old baby.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not mention any attributions.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant information that aligns with the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and comprehensive information on the appropriate nutrition for a two-year-old, covering various food groups and quantities.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque a mi bebe se le manchó la cara después de un brote": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information about baby acne.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the given passages.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about baby acne but lacks specific details and examples compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Que alimentos son buenos para mi bebe de dos años": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions correct? [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes a comprehensive list of recommended foods for a two-year-old, aligning well with the given criteria.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que alimento es lo ideal para que mi bebe crezca sano?": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes all the attributions correctly. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and accurate information about the benefits of breastfeeding for a baby's health.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque se enferma mi bebé de un ańo y cuatro meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the passages.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks specificity and depth compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Por que será que se me cae el cabello después del parto": {
+        "relevance": {
+            "feedback": "Feedback: The response is relevant to the topic.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks the concise and structured format of the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Es bueno ponerle crema a mi bebe en el cuerpo": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the question.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and specific recommendations for applying cream to the baby's skin.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que verduras son más saludables para mi bebe y ayudan al sistema inmunológico": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to the topic.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: Not all facts in the answer are accounted for in passages.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about healthy vegetables for the baby's immune system, but lacks consistency and completeness compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Por que será que se me cae el cabello": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the topic.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions for the information provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides a comprehensive explanation of the causes of hair loss, covering various factors and conditions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque se me cae el cabello": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to the causes of hair loss. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed explanations and covers various causes of hair loss, but it deviates significantly from the reference answer in terms of structure and focus. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Porque mi bebe de 15 meses tiene alergias": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to allergies in babies.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes some relevant facts but not all are accounted for in the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about baby allergies, but lacks a personal anecdote or emotional connection like the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Porque mi bebe tiene cólicos": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant to the question.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: Not all facts in the reference answer are accounted for in the response.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks conciseness and clarity compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "El aire acondicionado le hace daño a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts and explanations supporting the safety of air conditioning for babies.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information and supports its claims with references.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "answer is not accounted for in any of the passages": {
+        "relevance": {
+            "feedback": "Feedback: The answer is not topically relevant.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The answer is not relevant to the question.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The answer is not accounted for in any of the passages.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The answer is not accounted for in any of the passages.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Es normal que a mi bebe se le brote la cara": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant information but does not fully account for all the facts provided in the reference answer. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about baby acne, but lacks specific instructions on how to manage the condition. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Desarrollar va creciendo bien": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the passages.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response does not align with the given reference answer. [2]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Razón por la que a un bebe de dos años le de alergia en los ojos": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions in the response are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides a detailed explanation of the causes and symptoms of eye allergies in a two-year-old, referencing specific allergens and cellular reactions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Síntomas de autismo": {
+        "relevance": {
+            "feedback": "Feedback: The response covers a wide range of symptoms related to autism, including social communication difficulties and sensory sensitivities.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and specific symptoms of autism spectrum disorder.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Es normal Que mi Cuerpo duela despues del parto": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes various symptoms and factors related to postpartum pain, but it does not directly address the specific attribution of \"uterine contractions\" as the main cause of pain postpartum.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes various facts related to postpartum pain, covering different aspects and symptoms.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides comprehensive information on postpartum pain, including various factors affecting its intensity and duration, common symptoms, and the importance of seeking immediate medical attention for certain symptoms.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Es malo si mi bebe no toma agua": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly attributes all information. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and accurate information regarding the topic. [5]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Porque me siento tan cansada todo el día": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the topic.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on various causes of fatigue and emphasizes the importance of seeking medical attention for severe symptoms, aligning well with the evaluation criteria.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que problemas de salud de la mama le afectan Al bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response includes relevant information related to health problems of the mother affecting the baby.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes additional information beyond what is required, affecting the score.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes additional information beyond what is required, leading to a less concise answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Que comida le puedo dar a mi bebe de un año": {
+        "relevance": {
+            "feedback": "Feedback: The response is relevant to the question. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes some correct attributions but not all. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides a comprehensive list of suitable foods for a one-year-old, aligning well with the evaluation criteria. [5]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Cuadro gripal": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes additional symptoms not related to the cuadro gripal.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Porque mi bebe se enferma tanto": {
+        "relevance": {
+            "feedback": "Feedback: The response is partially relevant to the question. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks the direct answer to the question. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Como puede dormir mas durante la noche": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant and specific advice on improving sleep habits.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes a variety of helpful tips for improving sleep quality.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que medicamento puede tomar un adulto para una infección de oído": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information for treating an ear infection in adults. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions for the medications mentioned. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant medication options for an ear infection, but it does not cover all the facts provided in the reference answer. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides some relevant information but lacks specific details compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Si tengo depresión y le doy pecho a mi bebe, le puedo generar depresión a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The answer is somewhat relevant to the question.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes relevant information but lacks conciseness and clarity compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Porque a mi bebe le dan alergias en la espalda": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to the topic.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions in the response are correct. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant information but does not fully account for all the facts in the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response lacks specific details and clarity compared to the reference answer. [2]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Que tipo de comida saludables para los bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and varied options for healthy baby foods, including specific examples and recommendations.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Por qué se le inflama el abdomen a mi bebé": {
+        "relevance": {
+            "feedback": "Feedback: The response covers various potential causes of abdominal inflammation in a baby, providing detailed explanations for each, which may not be directly relevant to the initial query.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes various potential causes of abdominal inflammation in a baby, providing detailed explanations for each, but it does not directly address the question asked.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes various causes of abdominal inflammation in babies, providing detailed explanations for each, but not all facts in the reference answer are accounted for in the passages.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on various potential causes of abdominal inflammation in a baby, covering different conditions and symptoms.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Ejemplo de una dieta balanceada para un bebe de 7 meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant. Score 1",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response lacks conciseness and coherence compared to the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Hay alguna terapia Que ayude hablar a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response closely aligns with the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que medicamento le puedo dar a mi Bebe de dos meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is partially relevant to the question.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct. [2]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: Not all facts in the answer are accounted for in passages. [2]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes relevant information but lacks additional details and guidance provided in the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Porque mi bebe se vuelve inquieto cuando come dulce": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide correct attributions. [1]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant information but does not directly address the specific causes of restlessness in a baby when consuming sweets.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information and suggestions for possible causes and solutions.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Cual debe ser la alimentación de mi primer bebe": {
+        "relevance": {
+            "feedback": "Feedback: The answer is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the necessary facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and specific guidance on the feeding of a first baby, including recommendations on introducing solid foods and potential allergens.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que tipo de vacuna necesita mi bebé de 15 meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is somewhat relevant to the question.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide all the correct attributions.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts mentioned in the reference answer. [2]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response partially addresses the question but lacks specific details compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Que vegetales le puedo dar a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts mentioned in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response lacks specific details and organization compared to the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Que alimentación puede comer después del parto?": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes relevant information but lacks conciseness and directness compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Es seguro darle medicina a un bebe de un año": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the question.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly attributes the information provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response accounts for all the facts presented in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information and references to support the answer.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "A Que edad debe un bebe hablar": {
+        "relevance": {
+            "feedback": "Feedback: The response provides detailed information on the developmental milestones of verbal skills in babies, which is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions for the different age milestones of verbal development.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on the developmental milestones of verbal skills in babies, aligning with the given criteria.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que crema es buena para la piel de los bebes": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information about suitable moisturizers for baby skin care.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes all the correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides a comprehensive list of recommended baby creams and emphasizes the importance of choosing gentle, non-irritating products with safe ingredients.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Similac recall": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions in the response are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information about the Similac PM 60/40 recall incident, including specific details and actions taken by Abbott Nutrition. [RESULT]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "A que se debe que un bebe nazca con un síndrome": {
+        "relevance": {
+            "feedback": "Feedback: The response is partially relevant to the question.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response lacks clarity and precision compared to the reference answer.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Que le puedo dar a mi bebe para el dolor después de la vacuna de los dos meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide all attributions correctly. [3]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information on pain relief options after vaccination but lacks additional tips for comforting the baby. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Razones por las que a una mujer embarazada le da preeclampsia": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information on the causes and risk factors of preeclampsia. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes relevant information about the causes and risk factors of preeclampsia, but it lacks details on the potential complications for both the mother and the fetus.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts about preeclampsia and its risks, but not all facts from the reference answer are accounted for in the passages.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on the causes and risk factors of preeclampsia, but lacks specific details on the potential complications for both the mother and the fetus. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Que comidas pueden comer los bebes de 2anos": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information about the topic.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions to external sources.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes additional information beyond the scope of the question.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and specific information about the types of foods suitable for 2-year-old babies.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Como se si mi hijo tiene autismo": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on identifying potential signs of autism in children.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Puedo comer naranjas Estoy embarazada": {
+        "relevance": {
+            "feedback": "Feedback: The answer is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not address all attributions correctly.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts and information from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant and detailed information regarding the consumption of oranges during pregnancy.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Caules son risiegos de prematura nacimiento": {
+        "relevance": {
+            "feedback": "Feedback: The response covers the risks associated with premature birth comprehensively and accurately. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: Not all attributions are correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the key facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes relevant risks associated with premature birth but lacks the concise and structured presentation of information found in the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Es un cambio en la temperatura corporal un signo de trabajo de parto": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly attributes the information to a source.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts and information from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information and acknowledges the limitations of using temperature change as a reliable indicator for labor.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Cuanta papilla deberia de comer un bebe de once meses": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant to the question.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide information on the specific amount of food a baby of eleven months should eat.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts provided in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response does not provide specific information on the amount of food a baby of eleven months should eat.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "Porque el aire acondicionado le da mucosidad a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to the effects of air conditioning on a baby's nasal congestion. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes some relevant facts but not all are accounted for in the passages. [4]",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information but lacks specific details and references compared to the reference answer. [3]",
+            "score": null,
+            "acceptable": false
+        }
+    },
+    "Que hacer si mi bb pádece de  estreñimiento": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant. [Score] 1",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are not correct.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant information to address the issue of constipation in babies.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed and comprehensive information on how to address infant constipation.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Porque me duele el cuello despues del parto": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to the question.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not correctly attribute the information provided.",
+            "score": 2,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": null,
+            "acceptable": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on various possible causes of neck pain after childbirth, but it lacks a clear and concise explanation compared to the reference answer.",
+            "score": 3,
+            "acceptable": false,
+            "human_annotation": true
+        }
+    },
+    "A cuanto le puedo dejar de dar pecho a mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response is not topically relevant. [Score] 1",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions for the evidence provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts from the reference answer.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides additional information and considerations beyond the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Puedo comer papaya si estoy embarazada": {
+        "relevance": {
+            "feedback": "Feedback: The response is topically relevant. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: The response correctly attributes the information provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response does not account for all the facts presented in the reference answer.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides relevant information about the safety of consuming papaya during pregnancy based on scientific evidence.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Como es una buena alimentación para mi bebe": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information on a good diet for a baby.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions to external sources.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response includes additional details and recommendations beyond the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Puedo darle pecho a mi bebe al mismo mientras estoy embarazada": {
+        "relevance": {
+            "feedback": "Feedback: The answer is topically relevant.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes correct attributions.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information and explanations supporting the recommendation, aligning well with the given criteria.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Que tipo de crema es buena para la piel del bebé": {
+        "relevance": {
+            "feedback": "Feedback: The answer is topically relevant.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response does not provide any attributions.",
+            "score": 1,
+            "acceptable": false,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes relevant facts and information from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides specific recommendations and product suggestions for baby skin care.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Es normal que me de depresión si dejo de tomar magnesio": {
+        "relevance": {
+            "feedback": "Feedback: The response is highly relevant to the topic. [5]",
+            "score": null,
+            "acceptable": false
+        },
+        "attributes": {
+            "feedback": "Feedback: All attributions are correct.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts from the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information and explanations, supporting the explanation with relevant sources.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    },
+    "Por que salen muchas manchas en las piernas de mi bebé": {
+        "relevance": {
+            "feedback": "Feedback: The response provides relevant information related to the topic.",
+            "score": 4,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "attributes": {
+            "feedback": "Feedback: The response includes attributions for the information provided.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        },
+        "facts": {
+            "feedback": "Feedback: The response includes all the relevant facts mentioned in the reference answer.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": false
+        },
+        "preference": {
+            "feedback": "Feedback: The response provides detailed information on various types of skin spots that can appear on a baby's legs, which aligns with the given rubric.",
+            "score": 5,
+            "acceptable": true,
+            "human_annotation": true
+        }
+    }
+}
