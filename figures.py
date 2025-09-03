@@ -149,11 +149,15 @@ def main():
 
     df = pd.DataFrame(all_results)
 
-    # Sort models by average F1 score across all criteria for consistent ordering
-    avg_scores = (
-        df.groupby("model")["f1_score"].mean().sort_values(ascending=True).index
+    # Sort models by type and then by average F1 score for consistent ordering
+    model_order = (
+        df.groupby(["model", "type"])
+        .f1_score.mean()
+        .reset_index()
+        .sort_values(["type", "f1_score"])
+        .model.tolist()
     )
-    df["model"] = pd.Categorical(df["model"], categories=avg_scores, ordered=True)
+    df["model"] = pd.Categorical(df["model"], categories=model_order, ordered=True)
 
     os.makedirs("figures", exist_ok=True)
     generate_f1_chart(df)
