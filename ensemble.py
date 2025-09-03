@@ -61,8 +61,8 @@ def compute_ensemble(file1, file2, file3):
 
             ensemble_results[question][aspect] = {
                 "average_score": avg_score,
-                "ensemble_acceptable": ensemble_acceptable,
-                "ensemble_human_annotation": ensemble_human_annotation,
+                "acceptable": ensemble_acceptable,
+                "human_annotation": ensemble_human_annotation,
                 "individual_scores": scores,
                 "individual_acceptables": acceptables,
                 "individual_human_annotations": human_annotations,

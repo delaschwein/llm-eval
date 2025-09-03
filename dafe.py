@@ -58,17 +58,17 @@ def main():
                     "acceptable"
                 ) == data2_question.get(aspect, {}).get("acceptable"):
                     current_item[aspect] = {
-                        "ensemble_acceptable": data1_question.get(aspect, {}).get(
+                        "acceptable": data1_question.get(aspect, {}).get(
                             "acceptable", False
                         ),
-                        "ensemble_human_annotation": human_annotations,
+                        "human_annotation": human_annotations,
                     }
                 else:
                     current_item[aspect] = {
-                        "ensemble_acceptable": data3_question.get(aspect, {}).get(
+                        "acceptable": data3_question.get(aspect, {}).get(
                             "acceptable", False
                         ),
-                        "ensemble_human_annotation": human_annotations,
+                        "human_annotation": human_annotations,
                     }
 
             output[question] = current_item
