@@ -1,0 +1,7528 @@
+{
+    "A Que edad debe un bebe hablar": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                2
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "A cuanto le puedo dejar de dar pecho a mi bebe": {
+        "relevance": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "A que se debe que un bebe nazca con un s\u00edndrome": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Caules son risiegos de prematura nacimiento": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Como calmarle los c\u00f3licos a mi bebe": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 1.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                2
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Como es una buena alimentaci\u00f3n para mi bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Como mantener a mi hijo activo": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Como puede dormir mas durante la noche": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Como puedo aplicar para un seguro de salud para mi bebe si no tengo empleo": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Como puedo hacer que mi bebe se alimenta mejor": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                1,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Como se si mi hijo tiene autismo": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Cuadro gripal": {
+        "relevance": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                4,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Cual debe ser la alimentaci\u00f3n de mi primer bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Cual es la diferencia entre un bebe prematuro y un bebe que nace en su tiempo": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Cual es la major alimentacion para un bebe de dos a\u00f1os": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Cual es mejor comida para bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Cuanta leche debo darle a mi bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                1,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Cuanta papilla deberia de comer un bebe de once meses": {
+        "relevance": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "De cuantos meses puedo dejar la leche materna": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Debo darle leche materna a mi Bebe?": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Desarrollar va creciendo bien": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Ejemplo de una dieta balanceada para un bebe de 7 meses": {
+        "relevance": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "El aire acondicionado le hace da\u00f1o a mi bebe": {
+        "relevance": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Es bueno ponerle crema a mi bebe en el cuerpo": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                2
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Es cierto que darle ibuprofen a los beb\u00e9s les reduce su visi\u00f3n?": {
+        "relevance": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Es malo amamantar mientras se est\u00e1 embarazada": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Es malo si mi bebe no toma agua": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Es normal Que mi Cuerpo duela despues del parto": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Es normal que a mi bebe se le brote la cara": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 1.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Es normal que me de depresi\u00f3n si dejo de tomar magnesio": {
+        "relevance": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                2
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Es normal que mis pies me duelan si tengo diabetes": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Es seguro darle medicina a un bebe de un a\u00f1o": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                2,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Es un cambio en la temperatura corporal un signo de trabajo de parto": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                1,
+                2
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                1,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Hay alguna terapia Que ayude hablar a mi bebe": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Jaundice": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Le puedo dar cualquier fruta a mi bebe de 11 meses": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Por que salen muchas manchas en las piernas de mi beb\u00e9": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Por que ser\u00e1 que se me cae el cabello": {
+        "relevance": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                2
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Por que ser\u00e1 que se me cae el cabello despu\u00e9s del parto": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Por qu\u00e9 se le inflama el abdomen a mi beb\u00e9": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Porque a mi bebe le dan alergias en la espalda": {
+        "relevance": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque a mi bebe le dan alergias en los ojos": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque a mi bebe se le manch\u00f3 la cara despu\u00e9s de un brote": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque el aire acondicionado le da mucosidad a mi bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque los ni\u00f1os menores de dos a\u00f1os tienen dificultades para hablar y entender": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                2,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Porque me dio preclamsia": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque me duele el cuello despues del parto": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                2
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque me siento tan cansada todo el d\u00eda": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque mi bebe de 15 meses tiene alergias": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque mi bebe de 18 meses muerde muchas cosas": {
+        "relevance": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                1,
+                4,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque mi bebe es alergico al polen": {
+        "relevance": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque mi bebe mantiene con mocos": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                1,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque mi bebe no est\u00e1 comiendo mucho": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false
+            ]
+        }
+    },
+    "Porque mi bebe se enferma tanto": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque mi bebe se vuelve inquieto cuando come dulce": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque mi bebe tiene alergia al polen": {
+        "relevance": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque mi bebe tiene c\u00f3licos": {
+        "relevance": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Porque se enferma mi beb\u00e9 de un a\u0144o y cuatro meses": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque se me cae el cabello": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Porque se me cae el cabello tanto": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Porque se me enferma tanto mi bebe que puedo hacer o darle para no enfermarse tanto": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Puedo comer naranjas Estoy embarazada": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                2
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Puedo comer papaya si estoy embarazada": {
+        "relevance": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 1.6666666666666667,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Puedo darle pecho a mi bebe al mismo mientras estoy embarazada": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Puedo darle pecho a mi bebe mientras estoy embarazada": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                2,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que alimentaci\u00f3n puede comer despu\u00e9s del parto?": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que alimento es lo ideal para que mi bebe crezca sano?": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que alimentos son buenos para mi bebe de dos a\u00f1os": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que alimentos son sanos para mis beb\u00e9s de 22 meses": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que cantidad de solidos puede comer un bebe de once meses": {
+        "relevance": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                2,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que comida le puedo dar a mi bebe de un a\u00f1o": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Que comidas pueden comer los bebes de 2anos": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que crema es buena para la piel de los bebes": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que hacer si mi bb p\u00e1dece de  estre\u00f1imiento": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                2
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que le puedo dar a mi bebe para el dolor despu\u00e9s de la vacuna de los dos meses": {
+        "relevance": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Que medicamento le puedo dar a mi Bebe de dos meses": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Que medicamento puede tomar la mam\u00e1 para una infecci\u00f3n de o\u00eddo": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que medicamento puede tomar un adulto para una infecci\u00f3n de o\u00eddo": {
+        "relevance": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que medicamento puedo tomar para una infecci\u00f3n de o\u00eddo": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que porcion de arroz deberia darle a mi bebe de 11 meses": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que problemas de salud de la mama le afectan Al bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que tipo de actividades puedo hacer con mi hijo para que se distraiga": {
+        "relevance": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que tipo de comida saludables para los bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Que tipo de crema es buena para la piel del beb\u00e9": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que tipo de dieta deber\u00eda llevar mi bebe de un a\u00f1o": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": false,
+            "individual_scores": [
+                5,
+                2,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que tipo de vacuna necesita mi beb\u00e9 de 15 meses": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 5.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Que vacuna toca a los 15 meses": {
+        "relevance": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que vegetales le puedo dar a mi bebe": {
+        "relevance": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 1.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que vegetales son buenos para el sistema inmunol\u00f3gico de mi bebe": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Que verduras son m\u00e1s saludables para mi bebe y ayudan al sistema inmunol\u00f3gico": {
+        "relevance": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.5,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Razones por las que a una mujer embarazada le da preeclampsia": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                3,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                2,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "Raz\u00f3n por la que a un bebe de dos a\u00f1os le de alergia en los ojos": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.5,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Si tengo depresi\u00f3n y le doy pecho a mi bebe, le puedo generar depresi\u00f3n a mi bebe": {
+        "relevance": {
+            "average_score": 4.333333333333333,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 2.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                3,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.3333333333333335,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                4,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    "Similac recall": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 4.666666666666667,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true
+            ]
+        }
+    },
+    "S\u00edntomas de autismo": {
+        "relevance": {
+            "average_score": 5.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                5,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                true,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.3333333333333335,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 3.6666666666666665,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                5
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                4,
+                4
+            ],
+            "individual_acceptables": [
+                true,
+                false,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "Tener el colesterol alto le afecta a mi bebe": {
+        "relevance": {
+            "average_score": 4.0,
+            "acceptable": true,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                5,
+                4
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                true
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 3.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                5,
+                3
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "facts": {
+            "average_score": 2.6666666666666665,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                2,
+                5,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                true,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "preference": {
+            "average_score": 2.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                3,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true
+            ]
+        }
+    },
+    "answer is not accounted for in any of the passages": {
+        "relevance": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        },
+        "attributes": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "facts": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": false,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                false,
+                false,
+                false
+            ]
+        },
+        "preference": {
+            "average_score": 1.0,
+            "acceptable": false,
+            "human_annotation": true,
+            "individual_scores": [
+                1,
+                1,
+                1
+            ],
+            "individual_acceptables": [
+                false,
+                false,
+                false
+            ],
+            "individual_human_annotations": [
+                true,
+                true,
+                true
+            ]
+        }
+    }
+}

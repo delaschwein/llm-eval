@@ -1,6 +1,5 @@
 import json
 import argparse
-from collections import defaultdict
 
 
 def compute_ensemble(file1, file2, file3):

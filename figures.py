@@ -18,13 +18,13 @@ from sklearn.metrics import f1_score, precision_score, recall_score
 def shorten_model_name(name):
     """Shortens long model names for display."""
     name = name.replace("_evaluation_results", "").replace(".json", "")
-    name = name.replace("anthropic_claude-3.5-sonnet", "Claude 3.5 Sonnet")
-    name = name.replace("gpt-3.5-turbo", "GPT-3.5 Turbo")
+    name = name.replace("anthropic_claude-3.5-sonnet", "Sonnet")
+    name = name.replace("gpt-3.5-turbo", "3.5 Turbo")
     name = name.replace("meta-llama_llama-3-70b-instruct", "Llama3 70B")
     name = name.replace("meta-llama_llama-3-8b-instruct", "Llama3 8B")
-    name = name.replace("mistralai_mixtral-8x7b-instruct", "Mixtral 8x7B")
-    name = name.replace("openai_gpt-4", "GPT-4")
-    name = name.replace("openai_gpt-4o-mini", "GPT-4o Mini")
+    name = name.replace("mistralai_mixtral-8x7b-instruct", "8x7B")
+    name = name.replace("openai_gpt-4", "GPT4")
+    name = name.replace("openai_gpt-4o-mini", "4o Mini")
     name = name.replace("prometheus", "Prometheus")
     name = name.replace("ensemble_", "Ens: ")
     name = name.replace("dafe_", "DAFE: ")
@@ -47,15 +47,8 @@ def calculate_metrics(file_path):
         for question, aspects in data.items():
             if criterion in aspects:
                 values = aspects[criterion]
-                if is_ensemble:
-                    prediction = values.get("ensemble_acceptable")
-                    human_annotation = values.get("ensemble_human_annotation")
-                elif is_dafe:
-                    prediction = values.get("acceptable")
-                    human_annotation = values.get("human_annotation")
-                else:  # Single model
-                    prediction = values.get("acceptable")
-                    human_annotation = values.get("human_annotation")
+                prediction = values.get("acceptable")
+                human_annotation = values.get("human_annotation")
 
                 if prediction is not None and human_annotation is not None:
                     predictions.append(prediction)
