@@ -1,1748 +1,1748 @@
 {
     "Que alimentos son sanos para mis bebés de 22 meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que porcion de arroz deberia darle a mi bebe de 11 meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": false
+            "acceptable": false,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Como puedo hacer que mi bebe se alimenta mejor": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Le puedo dar cualquier fruta a mi bebe de 11 meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que tipo de dieta debería llevar mi bebe de un año": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es cierto que darle ibuprofen a los bebés les reduce su visión?": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que medicamento puedo tomar para una infección de oído": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque me dio preclamsia": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es normal que mis pies me duelan si tengo diabetes": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que vacuna toca a los 15 meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe no está comiendo mucho": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         }
     },
     "Como puedo aplicar para un seguro de salud para mi bebe si no tengo empleo": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Jaundice": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cual es mejor comida para bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que cantidad de solidos puede comer un bebe de once meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": false
+            "acceptable": false,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe de 18 meses muerde muchas cosas": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe mantiene con mocos": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Como calmarle los cólicos a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Tener el colesterol alto le afecta a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Como mantener a mi hijo activo": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que tipo de actividades puedo hacer con mi hijo para que se distraiga": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         }
     },
     "Que medicamento puede tomar la mamá para una infección de oído": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque los niños menores de dos años tienen dificultades para hablar y entender": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cuanta leche debo darle a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cual es la diferencia entre un bebe prematuro y un bebe que nace en su tiempo": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "De cuantos meses puedo dejar la leche materna": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque se me enferma tanto mi bebe que puedo hacer o darle para no enfermarse tanto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque a mi bebe le dan alergias en los ojos": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe tiene alergia al polen": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Debo darle leche materna a mi Bebe?": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es malo amamantar mientras se está embarazada": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque se me cae el cabello tanto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Puedo darle pecho a mi bebe mientras estoy embarazada": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que vegetales son buenos para el sistema inmunológico de mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe es alergico al polen": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cual es la major alimentacion para un bebe de dos años": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque a mi bebe se le manchó la cara después de un brote": {
         "relevance": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         }
     },
     "Que alimentos son buenos para mi bebe de dos años": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que alimento es lo ideal para que mi bebe crezca sano?": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque se enferma mi bebé de un ańo y cuatro meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Por que será que se me cae el cabello después del parto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es bueno ponerle crema a mi bebe en el cuerpo": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que verduras son más saludables para mi bebe y ayudan al sistema inmunológico": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Por que será que se me cae el cabello": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque se me cae el cabello": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe de 15 meses tiene alergias": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe tiene cólicos": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "El aire acondicionado le hace daño a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "answer is not accounted for in any of the passages": {
         "relevance": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": false
+            "acceptable": false,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": false
+            "acceptable": false,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         }
     },
     "Es normal que a mi bebe se le brote la cara": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Desarrollar va creciendo bien": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Razón por la que a un bebe de dos años le de alergia en los ojos": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Síntomas de autismo": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es normal Que mi Cuerpo duela despues del parto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es malo si mi bebe no toma agua": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque me siento tan cansada todo el día": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que problemas de salud de la mama le afectan Al bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que comida le puedo dar a mi bebe de un año": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cuadro gripal": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe se enferma tanto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Como puede dormir mas durante la noche": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que medicamento puede tomar un adulto para una infección de oído": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Si tengo depresión y le doy pecho a mi bebe, le puedo generar depresión a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque a mi bebe le dan alergias en la espalda": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que tipo de comida saludables para los bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Por qué se le inflama el abdomen a mi bebé": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Ejemplo de una dieta balanceada para un bebe de 7 meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Hay alguna terapia Que ayude hablar a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que medicamento le puedo dar a mi Bebe de dos meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque mi bebe se vuelve inquieto cuando come dulce": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cual debe ser la alimentación de mi primer bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que tipo de vacuna necesita mi bebé de 15 meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que vegetales le puedo dar a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que alimentación puede comer después del parto?": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es seguro darle medicina a un bebe de un año": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "A Que edad debe un bebe hablar": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que crema es buena para la piel de los bebes": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Similac recall": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "A que se debe que un bebe nazca con un síndrome": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que le puedo dar a mi bebe para el dolor después de la vacuna de los dos meses": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         }
     },
     "Razones por las que a una mujer embarazada le da preeclampsia": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que comidas pueden comer los bebes de 2anos": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Como se si mi hijo tiene autismo": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Puedo comer naranjas Estoy embarazada": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Caules son risiegos de prematura nacimiento": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es un cambio en la temperatura corporal un signo de trabajo de parto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": false
+            "acceptable": false,
+            "human_annotation": false
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": false
+            "acceptable": false,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Cuanta papilla deberia de comer un bebe de once meses": {
         "relevance": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         }
     },
     "Porque el aire acondicionado le da mucosidad a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que hacer si mi bb pádece de  estreñimiento": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Porque me duele el cuello despues del parto": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "A cuanto le puedo dejar de dar pecho a mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Puedo comer papaya si estoy embarazada": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Como es una buena alimentación para mi bebe": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Puedo darle pecho a mi bebe al mismo mientras estoy embarazada": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Que tipo de crema es buena para la piel del bebé": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": false,
-            "ensemble_human_annotation": true
+            "acceptable": false,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Es normal que me de depresión si dejo de tomar magnesio": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     },
     "Por que salen muchas manchas en las piernas de mi bebé": {
         "relevance": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "attributes": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         },
         "facts": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": false
+            "acceptable": true,
+            "human_annotation": false
         },
         "preference": {
-            "ensemble_acceptable": true,
-            "ensemble_human_annotation": true
+            "acceptable": true,
+            "human_annotation": true
         }
     }
 }
