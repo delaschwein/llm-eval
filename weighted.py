@@ -3,9 +3,6 @@ import json
 from typing import Any
 
 def judge(input, output, reference, judge_model="openai/gpt-4o-mini"):
-    """
-    Judge the output of a model based on the input X, candidate output y_hat, and reference r.
-    """
     prompt_text = f"Please anylyze the following responses:\nContext: {input}\nAI Response: {output}\nGold Response: {reference}\nEvaluation:\nProvide your evaluation in the following JSON format:\n{{'acceptable': <True/False>, 'explanation': <Your brief explanation>}}"
 
     return generate(

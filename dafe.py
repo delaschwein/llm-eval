@@ -1,72 +1,63 @@
-from llm import generate
-from pprint import pprint
-
-
-def judge(input, output, reference, judge_model="openai/gpt-4o-mini"):
-    """
-    Judge the output of a model based on the input X, candidate output y_hat, and reference r.
-    """
-    prompt_text = f"""Question: {input}\nProvided Answer: {output}\nReference Answer: {reference}\nEvaluation:\nProvide your response in the following format:\nDecision: [True/False]\nExplanation: [Your brief explanation]"""
-
-    return generate(
-        prompt_text=prompt_text,
-        system_text="""You are a helpful assistant acting as an impartial judge for a task. You will be given an input and a
-        proposed output. Your task is to judge whether the Proposed Answer is correct by comparing it to
-        the Reference Answer. If the Proposed Answer is correct, choose ’True’, otherwise choose ’False’.
-        Provide a brief explanation for your decision.""",
-        model_name=judge_model,
-    )
-
+import json
 
 def main():
-    # for every entry
-    #
-    input_text = "What is the capital of France?"
-    output_text = "The capital of France is Paris."
-    reference_text = "Paris is the capital of France."
-    result_1 = judge(input_text, output_text, reference_text)
-    result_2 = judge(input_text, "Berlin", reference_text)
+    model_choices = [
+        ["gpt-3.5-turbo", "anthropic/claude-3.5-sonnet", "openai/gpt-4"],
+        ["openai/gpt-4o-mini", "anthropic/claude-3.5-sonnet", "openai/gpt-4"],
+        ["meta-llama/llama-3-8b-instruct", "meta-llama/llama-3-70b-instruct", "mistralai/mixtral-8x7b-instruct"],
+        ["gpt-3.5-turbo", "prometheus", "meta-llama/llama-3-8b-instruct"],
+    ]
 
-    # check if result1 and result2 are the same using match
-    lowered_1 = result_1.lower().split()
-    lowered_2 = result_2.lower().split()
+    for models in model_choices:
+        judge_one = models[0]
+        judge_two = models[1]
+        arbitration = models[2]
 
-    decision_1 = True if "true" in lowered_1[0] else False
-    decision_2 = True if "true" in lowered_2[0] else False
+        judge_one_file = f"spanish_rosie_evals/{judge_one.replace('/', '_')}_evaluation_results.json"
+        judge_two_file = f"spanish_rosie_evals/{judge_two.replace('/', '_')}_evaluation_results.json"
+        arbitration_file = f"spanish_rosie_evals/{arbitration.replace('/', '_')}_evaluation_results.json"
 
-    explanation_1 = " ".join(lowered_1[1:])
-    explanation_2 = " ".join(lowered_2[1:])
+        output_file = f"spanish_rosie_evals/dafe_{judge_one.replace('/', '_')}_{judge_two.replace('/', '_')}_{arbitration.replace('/', '_')}.json"
 
-    item = {
-        "input": input_text,
-        "output": output_text,
-        "reference": reference_text,
-        "judge1": {
-            "decision": decision_1,
-            "explanation": explanation_1,
-        },
-        "judge2": {
-            "decision": decision_2,
-            "explanation": explanation_2,
-        },
-    }
+        with open(judge_one_file, "r", encoding="utf-8") as f:
+            data1 = json.load(f)
 
-    if decision_1 != decision_2:
-        majority_decision = judge(
-            input_text, output_text, reference_text, judge_model="openai/gpt-4o-mini"
-        )
-        lowered_majority = majority_decision.lower().split()
-        majority_decision = True if "true" in lowered_majority[0] else False
-        majority_explanation = " ".join(lowered_majority[1:])
+        with open(judge_two_file, "r", encoding="utf-8") as f:
+            data2 = json.load(f)
 
-        item["majority_decision"] = {
-            "decision": majority_decision,
-            "explanation": majority_explanation,
-        }
+        with open(arbitration_file, "r", encoding="utf-8") as f:
+            data3 = json.load(f)
 
-    # TODO: record model
+        output = {}
 
-    # TODO: write out
+        for question in data1.keys():
+            if question not in data2 or question not in data3:
+                raise ValueError(f"Question {question} not found in all files.")
+
+            data1_question = data1[question]
+            data2_question = data2[question]
+            data3_question = data3[question]
+
+            current_item = {}
+
+            for aspect in ['relevance', 'attributes', 'facts', 'preference']:
+                human_annotations = data1_question.get(aspect, {}).get('human_annotation', False)
+
+                if data1_question.get(aspect, {}).get('acceptable') == data2_question.get(aspect, {}).get('acceptable'):
+                    current_item[aspect] = {
+                        'ensemble_acceptable': data1_question.get(aspect, {}).get('acceptable', False),
+                        'ensemble_human_annotation': human_annotations,
+                    }
+                else:
+                    current_item[aspect] = {
+                        'ensemble_acceptable': data3_question.get(aspect, {}).get('acceptable', False),
+                        'ensemble_human_annotation': human_annotations
+                    }
+
+            output[question] = current_item
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":

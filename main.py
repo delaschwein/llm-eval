@@ -6,20 +6,6 @@ from tqdm import tqdm
 from time import sleep
 
 def create_absolute_grading_prompt(instruction, response, reference_answer, rubric):
-    """
-    Formats the prompt for absolute grading according to the Prometheus model's requirements.
-
-    Args:
-        instruction (str): The instruction given to the model that generated the response.
-        response (str): The response to be evaluated.
-        reference_answer (str): A ground-truth or ideal answer.
-        rubric (dict): A dictionary containing the evaluation criteria and score descriptions.
-
-    Returns:
-        str: A formatted prompt string.
-    """
-    # The prompt template is based on the official documentation for the Prometheus model.
-    # It provides a structured format for the model to understand the evaluation task.
     prompt = f"""###Task Description:
 An instruction (might include an Input inside it), a response to evaluate, a reference answer that gets a score of 5, and a score rubric representing a evaluation criteria are given.
 1. Write a one sentence feedback that assesses the quality of the response strictly based on the given score rubric, not evaluating in general.
