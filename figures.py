@@ -25,7 +25,6 @@ def shorten_model_name(name):
     name = name.replace("mistralai_mixtral-8x7b-instruct", "8x7B")
     name = name.replace("openai_gpt-4", "GPT4")
     name = name.replace("openai_gpt-4o-mini", "4o Mini")
-    name = name.replace("prometheus", "Prometheus")
     name = name.replace("ensemble_", "Ens: ")
     name = name.replace("dafe_", "DAFE: ")
     name = name.replace("_", "/")
