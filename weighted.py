@@ -2,6 +2,7 @@ from llm import generate
 import json
 from typing import Any
 
+
 def judge(input, output, reference, judge_model="openai/gpt-4o-mini"):
     prompt_text = f"Please anylyze the following responses:\nContext: {input}\nAI Response: {output}\nGold Response: {reference}\nEvaluation:\nProvide your evaluation in the following JSON format:\n{{'acceptable': <True/False>, 'explanation': <Your brief explanation>}}"
 
@@ -26,7 +27,7 @@ def main():
     item: dict[str, Any] = {
         "input": input_text,
         "output": output_text,
-        "reference": reference_text
+        "reference": reference_text,
     }
 
     try:
@@ -34,7 +35,7 @@ def main():
 
         item["judge"] = {
             "acceptable": result_json.get("acceptable", False),
-            "explanation": result_json.get("explanation", "")
+            "explanation": result_json.get("explanation", ""),
         }
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON: {e}")

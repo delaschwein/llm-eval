@@ -1,10 +1,15 @@
 import json
 
+
 def main():
     model_choices = [
         ["gpt-3.5-turbo", "anthropic/claude-3.5-sonnet", "openai/gpt-4"],
         ["openai/gpt-4o-mini", "anthropic/claude-3.5-sonnet", "openai/gpt-4"],
-        ["meta-llama/llama-3-8b-instruct", "meta-llama/llama-3-70b-instruct", "mistralai/mixtral-8x7b-instruct"],
+        [
+            "meta-llama/llama-3-8b-instruct",
+            "meta-llama/llama-3-70b-instruct",
+            "mistralai/mixtral-8x7b-instruct",
+        ],
         ["gpt-3.5-turbo", "prometheus", "meta-llama/llama-3-8b-instruct"],
     ]
 
@@ -13,8 +18,12 @@ def main():
         judge_two = models[1]
         arbitration = models[2]
 
-        judge_one_file = f"spanish_rosie_evals/{judge_one.replace('/', '_')}_evaluation_results.json"
-        judge_two_file = f"spanish_rosie_evals/{judge_two.replace('/', '_')}_evaluation_results.json"
+        judge_one_file = (
+            f"spanish_rosie_evals/{judge_one.replace('/', '_')}_evaluation_results.json"
+        )
+        judge_two_file = (
+            f"spanish_rosie_evals/{judge_two.replace('/', '_')}_evaluation_results.json"
+        )
         arbitration_file = f"spanish_rosie_evals/{arbitration.replace('/', '_')}_evaluation_results.json"
 
         output_file = f"spanish_rosie_evals/dafe_{judge_one.replace('/', '_')}_{judge_two.replace('/', '_')}_{arbitration.replace('/', '_')}.json"
@@ -40,18 +49,26 @@ def main():
 
             current_item = {}
 
-            for aspect in ['relevance', 'attributes', 'facts', 'preference']:
-                human_annotations = data1_question.get(aspect, {}).get('human_annotation', False)
+            for aspect in ["relevance", "attributes", "facts", "preference"]:
+                human_annotations = data1_question.get(aspect, {}).get(
+                    "human_annotation", False
+                )
 
-                if data1_question.get(aspect, {}).get('acceptable') == data2_question.get(aspect, {}).get('acceptable'):
+                if data1_question.get(aspect, {}).get(
+                    "acceptable"
+                ) == data2_question.get(aspect, {}).get("acceptable"):
                     current_item[aspect] = {
-                        'ensemble_acceptable': data1_question.get(aspect, {}).get('acceptable', False),
-                        'ensemble_human_annotation': human_annotations,
+                        "ensemble_acceptable": data1_question.get(aspect, {}).get(
+                            "acceptable", False
+                        ),
+                        "ensemble_human_annotation": human_annotations,
                     }
                 else:
                     current_item[aspect] = {
-                        'ensemble_acceptable': data3_question.get(aspect, {}).get('acceptable', False),
-                        'ensemble_human_annotation': human_annotations
+                        "ensemble_acceptable": data3_question.get(aspect, {}).get(
+                            "acceptable", False
+                        ),
+                        "ensemble_human_annotation": human_annotations,
                     }
 
             output[question] = current_item
